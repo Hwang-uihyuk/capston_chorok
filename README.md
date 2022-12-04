@@ -1,9 +1,13 @@
 # capston_chorok
 
 구현 코드 : https://github.com/2022-GDSC-Sangmyung-Hackathon/01_chorokmaesil
+
+
 학교에서 실시한 GDSC 해커톤 대회에 참가하였다. 대회 당일 주제가 주어지는 형식으로 주어진 시간은 24시간으로 그시간 내에 코드를 완성해야 하는 프로젝트이다.
 
 처음으로 디자이너와 협업 하였고, 개발하는 사람이 아닌 다른 업무를 하는 사람과에 의사소통 능력을 기를 수 있었다.
+<br>
+회의 자료 = > https://www.figma.com/file/fECegT6Tq36x5Z8ogO1KiG/Untitled?t=XvNHJw2rI4RDXVM5-0
 
 주제는 일상에서의 역발상이였다. 예시로 네비게이션은 빠른길을 가기위해 만들어진 개발품인데 역발상으로 좀 돌아가더라도 이쁜길을 소개해주는 형식이다.
 
@@ -35,8 +39,10 @@
 
 전반적으로 파이어베이스 기능 및 안드로이드 개발을 담당했다.
 
+
+
 <img width="455" alt="이미지" src="https://user-images.githubusercontent.com/79883776/205481934-b68a06e5-e91e-4120-8536-96ad69b5c74a.png">
 
-
+<br>
 <img width="294" alt="image" src="https://user-images.githubusercontent.com/79883776/205481926-8269ae09-67ef-4265-9871-e3ec68e7eaa2.png">
 
