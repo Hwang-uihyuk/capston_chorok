@@ -35,7 +35,8 @@
 
 전반적으로 파이어베이스 기능 및 안드로이드 개발을 담당했다.
 
-이러한 주제를 통해 대회 2등을 하였다.
-2
+<img width="455" alt="이미지" src="https://user-images.githubusercontent.com/79883776/205481934-b68a06e5-e91e-4120-8536-96ad69b5c74a.png">
 
-3
+
+<img width="294" alt="image" src="https://user-images.githubusercontent.com/79883776/205481926-8269ae09-67ef-4265-9871-e3ec68e7eaa2.png">
+
