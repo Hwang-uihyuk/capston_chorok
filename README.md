@@ -46,3 +46,7 @@
 <br>
 <img width="294" alt="image" src="https://user-images.githubusercontent.com/79883776/205481926-8269ae09-67ef-4265-9871-e3ec68e7eaa2.png">
 
+<시현 영상>
+https://user-images.githubusercontent.com/79883776/216521993-291e2251-f981-4a26-9f4a-cb2fe7fd291d.mp4
+
+
